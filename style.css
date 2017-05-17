@@ -91,7 +91,6 @@ nav {
 .about, .contact {
     border-bottom: 1px solid #cacdcf;
     color: #4e5b61;
-    background: #3dc2ff;
 }
 
 .about .row [class*="col"]:last-of-type {
